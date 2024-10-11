@@ -1,7 +1,7 @@
 # jpa02-TomShangguan
 
 
-Repo: https://ucsb-cs156-f24/jpa02-TomShangguan
+Repo: https://github.com/ucsb-cs156-f24/jpa02-TomShangguan
 
 
 Deployed at: https://jpa02-tomshangguan.dokku-09.cs.ucsb.edu
